@@ -1,0 +1,52 @@
+# Virtual Environment
+venv/
+
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Caches
+.vscode/*
+*.vscode/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Temporary files
+*.swp
+*~
+
+# Package files
+*.log
+*.zip
+*.tar.gz
+
+# IDE files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Python-specific
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OpenCV-specific files and directories
+build/
+opencv/build/
+opencv/CMakeFiles/
